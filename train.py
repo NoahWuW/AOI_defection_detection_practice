@@ -24,8 +24,8 @@ train_loader, val_loader = load_dataset(train_df, val_df, train_transform, val_t
 #  ------------------------------------------------
 
 model = model_set()
-
 #  ------------------------------------------------
+
 # train_loader 和 val_loader
 dataloaders = {
     'train': train_loader,

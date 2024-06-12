@@ -8,7 +8,7 @@
 
 ## 瑕疵分類範例
 
-<img src="https://github.com/NoahWuW/AOI_defection_detection_practice/blob/main/dataset_example.jpg" alt="alt text" width="360" height="300">
+<img src="https://github.com/NoahWuW/AOI_defection_detection_practice/blob/main/dataset_example.jpg" alt="alt text" width="468" height="390">
 ## 影像數據來源
 工研院電光所提供了兩個數據集:訓練集和測試集,但由於版權原因,這些數據集無法在此提供。
 如果您需要訪問這些數據,請前往 [AIdea平台](https://aidea-web.tw/topic/285ef3be-44eb-43dd-85cc-f0388bf85ea4) 自行下載。
